@@ -20,6 +20,7 @@ struct ContentView: View {
     
     func dofunstuff() {
         print("fun")
+        print("We Are Done!")
     }
 }
 
